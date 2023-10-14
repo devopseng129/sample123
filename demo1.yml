@@ -1,3 +1,5 @@
 ---
 hosts: all
 user: root
+tasks:
+        - name: creating sample file
