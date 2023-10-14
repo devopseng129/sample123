@@ -3,3 +3,4 @@ hosts: all
 user: root
 tasks:
         - name: creating sample file
+          change: done by ec2 user
